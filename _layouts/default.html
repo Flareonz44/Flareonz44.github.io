@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: "en" }}" class="html" data-theme="{{ site.theme_config.appearance | default: "auto" }}">
+        {%- include head.html -%}
+  <body onLoad='clearRing()'>
+    <div class='ring-background'>
+      <span class='loader'/>
+  	</div>
+    <main class="page-content" aria-label="Content">
+      <div id="top"></div>
+      <div class="w">
+        <header>
+          <h1 class="main_title">{{ site.title }}</h1>
+          <p class="main_subtitle">Ｉ＇ｍ       ｗｒｉｔｔｅｎ       ｉｎ       ｃ＋＋</p>
+          {% include horizontal_list.html collection=site.data.home.navbar_entries nav=true%}
+        </header>
+        <div class="dashed"></div>
+        {{ content }}
+        <div class="dashed"></div>
+        <div class="credits">
+          •
+          &nbsp;
+          &copy;&nbsp;{{ "now" | date: "%Y" }}&nbsp;{{site.author}}
+          &nbsp;
+          •
+        </div>
+      </div>
+    </main>
+  </body>
+</html>

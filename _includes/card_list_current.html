@@ -1,0 +1,71 @@
+<ul class="horizontal-list">
+  {% for item in site.data.home.project_cybersec %}
+    {% if item.highlight == "WIP" %}
+
+      <li class="card">
+        <a href="{{ item.url }}">
+          <span class="header">
+            {{ item.title }}
+
+            {% if item.highlight %}
+              <mark>{{ item.highlight }}</mark>
+            {% endif %}
+
+          </span>
+
+          <hr />
+          <p class="body">
+            {{ item.desc }}
+          </p>
+        </a>
+      </li>
+    
+    {% endif %}
+  {% endfor %}
+  {% for item in site.data.home.project_gamedev %}
+    {% if item.highlight == "WIP" %}
+
+      <li class="card">
+        <a href="{{ item.url }}">
+          <span class="header">
+            {{ item.title }}
+
+            {% if item.highlight %}
+              <mark>{{ item.highlight }}</mark>
+            {% endif %}
+
+          </span>
+
+          <hr />
+          <p class="body">
+            {{ item.desc }}
+          </p>
+        </a>
+      </li>
+    
+    {% endif %}
+  {% endfor %}
+  {% for item in site.data.home.project_misc %}
+    {% if item.highlight == "WIP" %}
+
+      <li class="card">
+        <a href="{{ item.url }}">
+          <span class="header">
+            {{ item.title }}
+
+            {% if item.highlight %}
+              <mark>{{ item.highlight }}</mark>
+            {% endif %}
+
+          </span>
+
+          <hr />
+          <p class="body">
+            {{ item.desc }}
+          </p>
+        </a>
+      </li>
+    
+    {% endif %}
+  {% endfor %}
+</ul>

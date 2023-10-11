@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<a href="{{ "/" | relative_url }}" class="nodecolink">{{ site.theme_config.back_home_text }}</a>
+<h1 class="post-title">{{ page.title }}</h1>
+<p class="post-date text-bold">
+    <span class="text-upcase">{{ page.author }}</span>
+    <span class="text-upcase">{{ page.date | date: "%B %Y"}}</span>
+</p>
+
+<div class="">
+    {% for tag in page.tags %}
+    <span class="tag">{{ tag }}</span>
+    {% endfor %}
+</div>
+{{ content }}
+<br>
+<div style="display: flex;
+flex-direction: row;
+flex-wrap: nowrap;
+align-content: space-between;
+justify-content: space-evenly;
+align-items: center;">
+    <a href="{{ "/" | relative_url }}" class="nodecolink">{{ site.theme_config.back_home_text }}</a>
+    <a href="#top" class="nodecolink">⤴ go to the top</a>
+</div>

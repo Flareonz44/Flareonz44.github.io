@@ -1,0 +1,48 @@
+navbar_entries:
+  - title: home
+    url: index
+
+  - title: about
+    url: about
+
+  - title: blog
+    url: blog
+  
+  - title: portfolio
+    url: portfolio
+
+project_cybersec:
+  - title: WhatsApp Web Session Dumper
+    url: ws-web-session-dumper
+    desc: A simple yet powerful hijack
+
+project_gamedev:
+  - title: Kuzgakai's Dungeon
+    url: kuzgakais-dungeon
+    desc: A top-down 2D shooter game made with Game Maker Studio
+
+  - title: "Beyonder: Mars Research"
+    url: beyonder-mars-research
+    desc: A 3D Mars exploration experience
+    highlight: WIP
+
+project_misc:
+  - title: Hexel 16
+    url: hexel-16
+    desc: IPv6 Style text cipher made with JS
+
+  - title: ST7628 Nokia LCD Driver
+    url: 266-st7628-nokia-lcd-driver
+    desc: Use ESP8266 with an old Nokia LCD!
+  
+  - title: Sorting Algorithm
+    url: behind-python-sorting-function
+    desc: My own *basic* implementation of Python's sort() in C
+
+  - title: PyPulse
+    url: pypulse-heart-rate-monitor
+    desc: A simple Heart Rate Monitor made with Python and TKinter
+
+  - title: Asback 14 Tool
+    url: asback-14-tool
+    desc: A fictional language encoder/decoder in C++
