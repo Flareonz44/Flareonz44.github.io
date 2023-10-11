@@ -2,6 +2,15 @@
 <html lang="{{ page.lang | default: "en" }}" class="html" data-theme="{{ site.theme_config.appearance | default: "auto" }}">
         {%- include head.html -%}
   <body onLoad='clearRing()'>
+    <script>
+      function remRing(){
+        document.getElementsByClassName("ring-background")[0].remove();
+      }
+      function clearRing(){
+        document.getElementsByClassName("ring-background")[0].style.opacity = "0";
+        setTimeout(remRing, 1100);
+      }
+      </script>
     <div class='ring-background'>
       <span class='loader'/>
   	</div>
