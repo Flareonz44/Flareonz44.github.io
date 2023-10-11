@@ -20,8 +20,8 @@ While this isn't my first game development project, it is the first one I've pub
 
 [Soul Knights](https://play.google.com/store/apps/details?id=com.ChillyRoom.DungeonShooter&pcampaignid=web_share) was a significant source of inspiration for me (yeah, I spent hours playing it during my Latin classes), and as a result, the core mechanics are similar. You can purchase various guns, and there are traders scattered throughout the map who sell ammunition.  It's a straightforward concept: buy-shoot-kill-repeat, but as you reach higher levels, the difficulty increases. The later levels can be incredibly challenging, especially if you've been careless with your ammunition and resources. In some cases, suicide (I mean, restart the game) may be the only way out.
 
-Coding this game was an incredible learning experience for me. I discovered that game mechanics are more complex than a simple algorithm like ```while not dead: go kill player``` It involves intricate logic and clever programming tricks to make everything work seamlessly, particularly what involves enemies AI (don't think about neural-networks, that was lightyears far from my knowleadge) and some gameplay improvements.
-I know that this game is super basic, but I made everithing, from the music to the sprites, and I take pride in it. If you're interested, you can try it out for free:
+Coding this game was an incredible learning experience for me. I discovered that game mechanics are more complex than a simple algorithm like ```while not dead: go kill player``` It involves intricate logic and clever programming tricks to make everything work seamlessly, particularly what involves enemies AI (don't think about neural-networks, that was lightyears far from my knowledge) and some gameplay improvements.
+I know that this game is super basic, but I made everything, from the music to the sprites, and I take pride in it. If you're interested, you can try it out for free:
 
 <iframe frameborder="0" src="https://itch.io/embed/746579?dark=true" width="552" height="167"><a href="https://windfallgamestudio.itch.io/kuzgakais-dungeon">Kuzgakai's Dungeon by Windfall Game Studio</a></iframe>
 

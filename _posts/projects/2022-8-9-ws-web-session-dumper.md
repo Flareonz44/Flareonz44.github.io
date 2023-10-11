@@ -17,7 +17,7 @@ This tool has been deprecated due to changes in the WhatsApp Web application. Th
 
 ## About
 
-Well, this is what its name suggests: It's a dumper that extracts all the WhatsApp Web data stored on your computer into a file. You can then inject this data into another computer, granting access to the web session without the need to scan the QR code again. This repository consists of two files: wawebb_session_dumper.js and wawebb_session_injector.js. These two files are independent and can be run separately without affecting the results. Let's take a closer look at what they do.
+Well, this is what its name suggests: It's a dumper that extracts all the WhatsApp Web data stored on your computer into a file. You can then inject this data into another computer, granting access to the web session without the need to scan the QR code again. This repository consists of two files: `wawebb_session_dumper.js` and `wawebb_session_injector.js`. These two files are independent and can be run separately without affecting the results. Let's take a closer look at what they do.
 
 ### wawebb_session_dumper.js
 

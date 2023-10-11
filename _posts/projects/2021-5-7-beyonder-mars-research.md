@@ -7,13 +7,13 @@ type: project
 metadesc: A 3D ProcGen Low-Poly Exploration Game made with Raylib by Windfall Game Studio (by Flareonz44)
 ---
 
-***This is my current game development proyect, and since it isn't finished, everything could change, but as for today, this is all the information I can provide ;)***
+***This is my current game development project, and since it isn't finished, everything could change, but as for today, this is all the information I can provide ;)***
 
 ## Story
 
 I plan this game to be a narrative-driven game with some kind of freedom to the player. It will be a mix between some psycho-horror (thanks [SOMA](https://store.steampowered.com/app/282140/SOMA/)) and some semi-survival characteristics. Some friends told me it is a bit ambitious, but I'm up for the challenge.
 
-It is about an 'astronaut' whose mission is to explore Mars in search of life signs, but thing went terribly wrong and everithing takes a dark turn to an introspective journey in search of the essence of human-kind and what exactly means to exist.
+It is about an 'astronaut' whose mission is to explore Mars in search of life signs, but thing went terribly wrong and everything takes a dark turn to an introspective journey in search of the essence of human-kind and what exactly means to exist.
 
 ## Technical aspect
 
