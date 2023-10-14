@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QR Payouts for free throw Social Engineering"
+title: "QR Payouts for free through Social Engineering"
 author: Flareonz44
 tags: [cybersec, coding, social-eng]
 metadesc: "How easily you could bypass any QR Payout like Mercado Pago's one using social engineering"
