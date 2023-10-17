@@ -8,7 +8,7 @@ sitemap:
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {% for page in site.pages %}
-    {% if page.noindex != true and page.path != 'sitemap.xml' and page.path != 'feed.xml' and page.path != 'assets/css/main.scss' and page.path != 'assets/css/main.css.map' %}
+    {% if page.noindex != true and page.path != 'sitemap.xml' and page.path != 'feed.xml' and page.path != 'assets/css/main.scss' and page.path != 'assets/css/main.css.map' and page.path != 'assets/css/style.css' %}
       <url>
         <loc>{{ site.url }}{{ page.url }}</loc>
       </url>
