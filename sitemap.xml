@@ -1,7 +1,6 @@
 ---
 layout: null
 title : "Sitemap"
-sitemap_exclude: y
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -12,10 +11,10 @@ sitemap_exclude: y
     {% endfor %}
 
     {% for page in site.pages %}
-    {% if page.sitemap_exclude != 'y' %}
+    {% unless page.name == "sitemap.xml" or page.name == "feed.xml" or page.name == "main.css.map" or page.name == "main.scss" %}
     <url>
         <loc>{{site.url}}{{ page.url }}</loc>
     </url>
-    {% endif %}
+    {% endunless %}
     {% endfor %}
 </urlset>
