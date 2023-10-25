@@ -1,26 +1,21 @@
 ---
 layout: null
-sitemap:
-  exclude: 'yes'
+title : "Sitemap"
+sitemap_exclude: y
 ---
-
 <?xml version="1.0" encoding="UTF-8"?>
-
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% for page in site.pages %}
-    {% if page.noindex != true and page.path != 'sitemap.xml' and page.path != 'feed.xml' and page.path != 'assets/css/main.scss' and page.path != 'assets/css/main.css.map' and page.path != 'assets/css/style.css' %}
-      <url>
-        <loc>{{ site.url }}{{ page.url }}</loc>
-      </url>
+    {% for post in site.posts %}
+    <url>
+        <loc>{{site.url}}{{ post.url }}</loc>
+    </url>
+    {% endfor %}
+
+    {% for page in site.pages %}
+    {% if page.sitemap_exclude != 'y' %}
+    <url>
+        <loc>{{site.url}}{{ page.url }}</loc>
+    </url>
     {% endif %}
-  {% endfor %}
-  
-  {% for post in site.posts %}
-    {% if post.noindex != true %}
-      <url>
-        <loc>{{ site.url }}{{ post.url }}</loc>
-        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-      </url>
-    {% endif %}
-  {% endfor %}
+    {% endfor %}
 </urlset>
