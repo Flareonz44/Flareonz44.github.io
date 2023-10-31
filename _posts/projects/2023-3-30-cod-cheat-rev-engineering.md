@@ -44,7 +44,7 @@ With all this in place, you're ready to compile and launch your cheat to test it
 
 I know it's easier said than done. I spent at least 26 hours trying to understand how the 3D engine works. But in the end, it was worth it. I learned a lot about software reverse engineering, Windows security, and its architecture (x86 assembler really tested my limits).
 
-## how to use it
+## How to use it
 
 Just run it, and use the [Insert] key to open up the menu and set it up as you want. You can find the compiled versions inside the build directory, but if you prefer you can build it yourself. I used Visual Studio 2015.
 
