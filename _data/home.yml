@@ -15,6 +15,10 @@ project_cybersec:
   - title: WhatsApp Web Session Dumper
     url: ws-web-session-dumper
     desc: A simple yet powerful hijack
+  
+  - title: COD4MW ESP Cheat
+    url: cod-cheat-rev-engineering
+    desc: A game cheat made in C++ using Reverse Engineering
 
 project_gamedev:
   - title: Kuzgakai's Dungeon
