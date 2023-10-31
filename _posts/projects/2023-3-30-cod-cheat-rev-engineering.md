@@ -17,7 +17,18 @@ For those who have never heard of cheats, here's a brief summary. Think about fi
 
 Here is a video using the cheat I made:
 
-<iframe src="https://drive.google.com/file/d/179xpsCqiiAdhf9w8YimZ-chZsu33zzBX/preview" width="640" height="360" allow="autoplay"></iframe>
+<div style="
+    width: 100%;
+    padding-bottom: 56.25%;
+    position: relative;
+">
+<iframe src="https://drive.google.com/file/d/179xpsCqiiAdhf9w8YimZ-chZsu33zzBX/preview" allow="autoplay" style="
+    position: absolute;
+    width: 100%;
+    height: 100%;
+"></iframe>
+</div>
+
 
 I'm going to talk about ESP cheats, short for **E**xtra**S**ensorial **P**erception. As the name suggests, it's a cheat that allows you to perceive the positions of other players on the map, enabling you to predict their movements easily. But how does it work?
 
