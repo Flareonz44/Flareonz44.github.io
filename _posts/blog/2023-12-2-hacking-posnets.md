@@ -47,6 +47,6 @@ Despite this attack being so complex that it is challenging to successfully depl
 
 ## Conclusion
 
-In a world where our lives increasingly depend on large and complex computing systems, our focus should be on enhancing the security of these systems. Most importantly, we must think outside the box and stay one step ahead of hackers; otherwise, they will prevail.
+In a world where our lives increasingly depend on large and complex computing systems, our focus should be on enhancing the security of these systems. Most importantly, we must think outside the box and stay one step ahead of hackers, otherwise, they will prevail.
 
 See ya!
