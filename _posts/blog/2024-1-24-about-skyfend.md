@@ -13,7 +13,7 @@ metadesc: "This brand-new device will kill your unauthorized drone on the fly, l
 
 I'm sure this video footage will show off what this new device can really do.
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/N_TZp9dGJXo?si=qJV1El3Rm1IeYFtD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+> update: the video was removed, so I saved a snapshot of the official site for future generations, [here is the link](https://web.archive.org/web/20240307043537/https://www.skyfend.com/product/skyfend-blader/)
 
 After watching the video, we can begin analyzing it from a cybersecurity point-of-view.
 
