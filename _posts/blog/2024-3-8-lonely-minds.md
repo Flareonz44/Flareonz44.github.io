@@ -5,7 +5,7 @@ author: Flareonz44
 tags: [thoughts, philosophy]
 metadesc: "Boredom is everyone's enemy, boredom is my power source"
 ---
-![reality](/images/2023-3-8-lonely-minds/banner.webp)
+![reality](/images/2024-3-8-lonely-minds/banner.webp)
 
 Life is constant movement. You get up late, grab a coffee and run to the office. You do your daily chores, you fulfill your obligations. You go home. You're tired, you watch one more episode of that Netflix series and fall asleep. Repeat.
 
