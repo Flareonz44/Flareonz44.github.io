@@ -16,6 +16,9 @@ layout: default
     {% endfor %}
 </div>
 {{ content }}
+{% if page.sec %}
+<p style="word-wrap: break-word;">{{ page.sec }}</p>
+{% endif %}
 <br>
 <div style="display: flex;
 flex-direction: row;

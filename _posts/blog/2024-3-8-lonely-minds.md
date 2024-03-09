@@ -4,6 +4,7 @@ title: "Lonely Minds"
 author: Flareonz44
 tags: [thoughts, philosophy]
 metadesc: "Boredom is everyone's enemy, boredom is my power source"
+sec: "65766572797468696e67206973206c696e6b6564"
 ---
 ![reality](/images/2024-3-8-lonely-minds/banner.webp)
 
@@ -26,5 +27,3 @@ But she can't get out of there. Nobody gets out of there. We all live life tryin
 Leaving is not easy. Those of us who have left did so because something happened to our virtual machine. Something broke it. Something made it fail. And that's when we stopped. And by stopping, we are able to appreciate the bigger picture, to see beyond. Most people go to a psychologist, which is almost like taking the car in for repairs so it can run again. But sometimes, there are early breakages that are irreparable. And that makes you live almost constantly, outside the virtual machine.
 
 Those who have only two friends in their contact list. Those who don't talk much. Those who are not where most people are. Those who were on the host machine, can no longer go back. They can try to forget it, but the truth will always remain. Those who at parties stay on the sidelines. Those who have seen their bricks fall, their barriers go down, those who once thought of simply turning off the host machine, are the ones who can see further than everyone else. They are the ones who can see things unseen. They are the ones who can see things that do not exist. Those who build their world to feel some control. Those people can surprise you. Those unstoppable minds. Those lonely minds.
-
-65766572797468696e67206973206c696e6b6564
