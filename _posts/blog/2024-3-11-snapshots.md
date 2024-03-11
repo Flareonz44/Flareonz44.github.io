@@ -31,3 +31,5 @@ Day to day in this virtual machine does not let me run these snapshots. I don't 
 In my pocket I have a flash drive where I keep each and every one of these snapshots. But only the ones I can use to remember when I was happy. I keep them encrypted, so that no one but me can see them. I always carry them with me, because I know that sooner or later, the darkness will come and I must be ready. Many say that I am a great warrior, that I am made of steel. But the truth is that I am as vulnerable as everyone else. The difference is in how I face that darkness. That is what makes me strong.
 
 It's getting cold. The darkness is coming. My hands are in my pockets. My right hand grips the flash drive tightly.
+
+<a href="homa">Prev chapter</a>
