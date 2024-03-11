@@ -4,7 +4,7 @@ title: "Kuzgakai's Dungeon"
 author: Flareonz44
 tags: [gamedev]
 type: project
-metadesc: A top-down 2D shooter game made with Game Maker Studio 1.4 by Windfall Game Studio (by Flareonz44)
+metadesc: "A top-down 2D shooter game made with Game Maker Studio 1.4 by Windfall Game Studio (by Flareonz44)"
 ---
 
 ## Overview

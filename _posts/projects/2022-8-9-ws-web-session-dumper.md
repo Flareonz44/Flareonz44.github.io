@@ -4,7 +4,7 @@ title: "WhatsApp Web Session Dumper"
 author: Flareonz44
 tags: [cybersec]
 type: project
-metadesc: An [outdated] whatsapp web hijack that cones the session into a file
+metadesc: "An [outdated] whatsapp web hijack that cones the session into a file"
 ---
 
 ***All content shown in this post is exclusively for educational purposes. I'm not responsible for the use you make of the information shown here.***

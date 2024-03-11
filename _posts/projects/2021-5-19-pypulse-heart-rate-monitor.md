@@ -4,7 +4,7 @@ title: "PyPulse - SemiAutomatic Heart Rate Monitor"
 author: Flareonz44
 tags: [coding]
 type: project
-metadesc: A semi automatic heart rate monitor made with python and tkinter.
+metadesc: "A semi automatic heart rate monitor made with python and tkinter."
 ---
 
 ## About

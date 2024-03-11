@@ -4,7 +4,7 @@ title: "COD4MW Cheat: A Reverse Engineering Adventure"
 author: Flareonz44
 tags: [reveng, hacking]
 type: project
-metadesc: How I made a esp-cheat for Call of Duty 4 Modern Warfare in C++
+metadesc: "How I made a esp-cheat for Call of Duty 4 Modern Warfare in C++"
 ---
 
 ## About game cheats

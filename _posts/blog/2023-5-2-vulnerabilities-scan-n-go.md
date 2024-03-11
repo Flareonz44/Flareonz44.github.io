@@ -3,7 +3,7 @@ layout: post
 title: "Vulnerabilities of the Scan & Go System"
 author: Flareonz44
 tags: [security, social-eng]
-metadesc: The Scan & Go system is widely used by Supermarket chains, but there are some vulnerabilities in it.
+metadesc: "The Scan & Go system is widely used by Supermarket chains, but there are some vulnerabilities in it."
 ---
 
 ![digital scanner](/images/2023-5-2-vulnerabilities-scan-n-go/banner.png)

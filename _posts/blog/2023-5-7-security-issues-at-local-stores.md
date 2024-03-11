@@ -3,7 +3,7 @@ layout: post
 title: "Security issues at local stores"
 author: Flareonz44
 tags: [cybersec, social-eng, electronics]
-metadesc: How a Mouse Jack Attack could seriously compromise a local store.
+metadesc: "How a Mouse Jack Attack could seriously compromise a local store."
 ---
 
 ![pharmacy picture](/images/2023-5-7-security-issues-at-local-stores/banner.png)

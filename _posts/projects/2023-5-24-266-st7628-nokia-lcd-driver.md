@@ -3,7 +3,7 @@ layout: post
 title: "ST7628 LCD driver library for ESP8266"
 author: Flareonz44
 tags: [electronics, coding]
-metadesc: Use your old Nokia LCD Screen with your ESP8266.
+metadesc: "Use your old Nokia LCD Screen with your ESP8266."
 ---
 
 Found the code on my [GitHub](https://github.com/Flareonz44/8266_ST7628-Nokia-LCD-Driver)!

@@ -31,6 +31,11 @@ project_gamedev:
     highlight: WIP
 
 project_misc:
+  - title: Root Book
+    url: root-book
+    desc: "A book that compiles stories that I have been writing."
+    highlight: WIP
+
   - title: Hexel 16
     url: hexel-16
     desc: IPv6 Style text cipher made with JS

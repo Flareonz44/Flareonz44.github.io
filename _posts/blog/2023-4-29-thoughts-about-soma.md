@@ -3,7 +3,7 @@ layout: post
 title: "Thoughts about SOMA"
 author: Flareonz44
 tags: [review, videogames]
-metadesc: My personal review analyzing graphics, environment, story and lore from SOMA, a game from Frictional Games.
+metadesc: "My personal review analyzing graphics, environment, story and lore from SOMA, a game from Frictional Games."
 ---
 
 ![SOMA Game Banner](/images/2023-4-29-thoughts-about-soma/banner.png)

@@ -3,7 +3,7 @@ layout: post
 title: "Outsmarting car thieves"
 author: Flareonz44
 tags: [security, social-eng, electronics]
-metadesc: Car thefts are everywhere, but with there are some ways to outsmart them.
+metadesc: "Car thefts are everywhere, but with there are some ways to outsmart them."
 ---
 
 ![man robbing a car](/images/2023-5-3-outsmarting-car-thieves/banner.png)

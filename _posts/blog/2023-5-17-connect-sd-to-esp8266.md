@@ -3,7 +3,7 @@ layout: post
 title: "Connect MicroSD throw SD Adapter to ESP8266"
 author: Flareonz44
 tags: [electronics, esp8266, portfolio, tutorial]
-metadesc: Recycle your MicroSD card adapter and use it with your ESP8266.
+metadesc: "Recycle your MicroSD card adapter and use it with your ESP8266."
 ---
 
 ![sd card](/images/2023-5-17-connect-sd-to-esp8266/banner.png)

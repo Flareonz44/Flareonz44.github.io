@@ -4,7 +4,7 @@ title: "Beyonder: Mars Research"
 author: Flareonz44
 tags: [gamedev]
 type: project
-metadesc: A 3D ProcGen Low-Poly Exploration Game made with Raylib by Windfall Game Studio (by Flareonz44)
+metadesc: "A 3D ProcGen Low-Poly Exploration Game made with Raylib by Windfall Game Studio (by Flareonz44)"
 ---
 
 ***This is my current game development project, and since it isn't finished, everything could change, but as for today, this is all the information I can provide ;)***

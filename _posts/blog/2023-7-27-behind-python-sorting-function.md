@@ -3,7 +3,7 @@ layout: post
 title: "Back to the roots: Behind Python's sorting function"
 author: Flareonz44
 tags: [algorithm, c, coding, portfolio, python, tutorial]
-metadesc: Let's dive into the deep lines of Python's built-in functions and let's made our own implementation.
+metadesc: "Let's dive into the deep lines of Python's built-in functions and let's made our own implementation."
 ---
 
 ![algorithm](/images/2023-7-27-behind-python-sorting-function/image.png)
