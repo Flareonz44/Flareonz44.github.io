@@ -28,4 +28,4 @@ Leaving is not easy. Those of us who have left did so because something happened
 
 Those who have only two friends in their contact list. Those who don't talk much. Those who are not where most people are. Those who were on the host machine, can no longer go back. They can try to forget it, but the truth will always remain. Those who at parties stay on the sidelines. Those who have seen their bricks fall, their barriers go down, those who once thought of simply turning off the host machine, are the ones who can see further than everyone else. They are the ones who can see things unseen. They are the ones who can see things that do not exist. Those who build their world to feel some control. Those people can surprise you. Those unstoppable minds. Those lonely minds.
 
-<a href="homa">Next chapter</a>
+<a href="root-book">Index</a> : <a href="homa">Next Chapter</a>

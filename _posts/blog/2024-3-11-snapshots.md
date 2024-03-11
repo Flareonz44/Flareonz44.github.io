@@ -32,4 +32,4 @@ In my pocket I have a flash drive where I keep each and every one of these snaps
 
 It's getting cold. The darkness is coming. My hands are in my pockets. My right hand grips the flash drive tightly.
 
-<a href="homa">Prev chapter</a>
+<a href="homa">Prev chapter</a> : <a href="root-book">Index</a>
