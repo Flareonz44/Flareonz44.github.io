@@ -16,7 +16,7 @@ Suddenly, people who had hurt me in the past started to approach me, and she jus
 
 Then came the goodbye. To my surprise it was a very good thing, because I felt that by saying goodbye to her, I was doing something good for both of us. I felt that I was saying goodbye to a lifelong friend. I felt that I was saying goodbye to a friend who is leaving for a trip to another country. I would probably never see her again. But I was saying goodbye and see you soon. So was she. We both knew it was not possible for us to be together. But we crossed paths there to repair that which was pending. And with that, with that embrace we managed to close that circle of pain, which at least for me has been tormenting me for so long. I would never see her again. I would never be able to touch and hug her again. But I was happy to say goodbye, to say thank you and to let her go. Then I faded away. The world just faded into void.
 
-I pulled back the sheets to cover myself better.
+I arranged my blankets to cover myself better.
 
 Just as a movie is made up of many scenes, our life can be divided into different scenes as well. But unlike movies, we have the ability to create different snapshots of the people we know. Different versions of the same person. It is true that in reality it is always the same person, that those snapshots are actually incomplete because they do not capture the full essence of the people, but just as a camera captures only what the lens perceives, our snapshots only capture what we see, smell, feel and hear at that precise moment with that person. That's why we may have a song or a smell associated with a memory or a snapshot of a specific person.
 
