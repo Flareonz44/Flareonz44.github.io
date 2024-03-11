@@ -6,7 +6,7 @@ tags: [root_book]
 metadesc: "Miss you, darling."
 sec: "4d7920666c617368206472697665206973206d7920776561706f6e20616761696e7374204e756c6c"
 ---
-![pendrive](/images/2024-3-11-snapshots/banner.webp)
+![pendrive](/images/2024-3-10-snapshots/banner.webp)
 
 I was walking, probably in a park or an open place, I don't remember well. My memory is really blurry, but I know I was walking. Suddenly, I look up and see her. I look her straight in the eyes. I was more surprised by my reaction than by the fact that I had found her. She was long gone. She no longer meant anything to me. But there she was. And I looked at her. And I smiled at her. And she smiled at me. But we kept walking, each one in his own direction. After a while, we passed each other again. Again we looked at each other. And again we smiled at each other. And so on three more times. Always walking straight, always crossing each other again. But each time we were a little closer. Until finally, we stood face to face and looked at each other. We walked to a corner and started talking.
 
@@ -32,4 +32,4 @@ In my pocket I have a flash drive where I keep each and every one of these snaps
 
 It's getting cold. The darkness is coming. My hands are in my pockets. My right hand grips the flash drive tightly.
 
-<a href="homa">Prev chapter</a> : <a href="root-book">Index</a>
+<a href="homa">Prev chapter</a> : <a href="root-book">Index</a> : <a href="rain">Next chapter</a>
