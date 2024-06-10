@@ -17,7 +17,7 @@ It is about an 'astronaut' whose mission is to explore Mars in search of life si
 
 ## Technical aspect
 
-This will be a 3D game written in C using Raylib. The gameplay will feature a procedurally generated terrain created with my own algorithm, based on Perlin noise generation. It will be almost infinity since it's limited to match the actual scale of the real planet's surface. Yes, it's vast, but don't worry; I'm planning to make the gameplay as dynamic as possible, even in a story-driven context.
+This will be a 3D game written in C++ using Raylib. The gameplay will feature a procedurally generated terrain created with my own algorithm, based on Perlin noise generation. It will be almost infinity since it's limited to match the actual scale of the real planet's surface. Yes, it's vast, but don't worry; I'm planning to make the gameplay as dynamic as possible, even in a story-driven context.
 
 ## Stay updated
 
@@ -25,4 +25,19 @@ Despite the many demands in my life, I promise to share regular updates related 
 
 Lastly, if you're interested in contributing or joining the team, feel free to reach out to me through Twitter, Instagram, or, if you prefer, via email at **flareonz44.msg@gmail.com**.
 
-Keep rocking on!
+## Dev Posts!
+
+{% if site.posts.size > 0 %}
+  <ul>
+    {% for post in site.posts %}
+      {% if post.tags contains 'BeyonderMR' %}
+      <li class="post-list-item">
+        <span class="home-date">
+          {{ post.date | date: site.theme_config.date_format }}»
+        </span>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endif %}
