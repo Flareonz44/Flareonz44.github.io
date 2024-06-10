@@ -272,7 +272,7 @@ All that remains is to play with all the variables until the perfect combination
 
 ## Final Words
 
-Finally, I must say that programming the procedural skies was not an easy task. It required not only many hours of trial and error, but also a lot of research and learning. I read many articles, pages, and watched videos to achieve the perfect implementation in my game.
+I must say that programming the procedural skies was not an easy task. It required not only many hours of trial and error, but also a lot of research and learning. I read many articles, pages, and watched videos to achieve the perfect implementation in my game.
 
 Undoubtedly, much of what I detail here I did not find on the internet, so I decided to publish it for anyone else who wants to understand how to build this type of skybox using pure GLSL.
 
