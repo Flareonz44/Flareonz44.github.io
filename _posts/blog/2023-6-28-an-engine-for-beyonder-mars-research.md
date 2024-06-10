@@ -2,7 +2,7 @@
 layout: post
 title: "An engine for Beyonder: Mars Research"
 author: Flareonz44
-tags: [3d, BeyonderMR, coding, portfolio, videogames]
+tags: [3d, gamedev, BeyonderMR, coding, portfolio, videogames]
 metadesc: "A little timeline showing all the game engines I used before for my game Beyonder: Mars Research"
 ---
 
