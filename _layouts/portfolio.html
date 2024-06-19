@@ -2,7 +2,7 @@
 layout: default
 ---
 <a href="{{ "/" | relative_url }}" class="nodecolink">{{ site.theme_config.back_home_text }}</a>
-<h1>{{ site.theme_config.home.title_projects }}</h1>
+  <h1>My portfolio</h1>
 <p>Here you will find all that I've been working on. Hope you find them interesting!</p>
   <h3>Cyber Security / Hacking Projects</h3>
   <p><strong>THIS LIST IS NOT COMPLETE, STAY TUNE FOR PROJECTS UPDATES</strong></p>
@@ -11,3 +11,18 @@ layout: default
   {% include card_list.html collection=site.data.home.project_gamedev nav=false %}
   <h3>Misc Projects</h3>
   {% include card_list.html collection=site.data.home.project_misc nav=false %}
+  <h3>Posts about what I love doing!</h3>
+  {% if site.posts.size > 0 %}
+  <ul>
+      {% for post in site.posts %}
+        {% if post.tags contains 'portfolio' %}
+        <li class="post-list-item">
+          <span class="home-date">
+            {{ post.date | date: site.theme_config.date_format }}»
+          </span>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  {% endif %}
